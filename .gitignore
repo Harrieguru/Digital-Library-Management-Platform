@@ -1,0 +1,57 @@
+# Build results
+bin/
+obj/
+[Oo]ut/
+[Bb]uild/
+[Dd]ebug/
+[Rr]elease/
+
+# NuGet packages
+packages/
+*.nupkg
+*.snupkg
+
+# Visual Studio files
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# User-specific files
+*.rsuser
+
+# Development settings (may contain sensitive data)
+appsettings.Development.json
+
+# Log files
+*.log
+logs/
+
+# Frontend dependencies (if any)
+node_modules/
+
+# Certificates and sensitive data
+certificates/
+
+# System files
+Thumbs.db
+.DS_Store
+
+# Temporary files
+*.tmp
+*.temp
+
+# IDE files
+.vscode/
+*.swp
+*.swo
+
+# virtual env
+.env
+
+# Test results
+TestResults/
+*.trx
+*.coverage
+*.coveragexml
